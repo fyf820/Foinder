@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">project1</string>
+
+    <string name="error_invalid_name">This name is too short</string>
+    <string name="error_invalid_bdate">Invalid Birthday date.(____-__-__) </string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_incorrect_Cpassword">This password is different with previous password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
